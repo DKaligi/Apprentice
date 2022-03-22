@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="RISK PROFILE AND FUND OFFERING" id="27D5AE1E-1E14-5F12-A4B2-BF2841D1F218" version="3.5">
+<createdBy>associate</createdBy>
+<createdTime>2022-03-22 12:16:16 UTC</createdTime>
+<ownerDesignName>RISK PROFILE AND FUND OFFERING</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>27D5AE1E-1E14-5F12-A4B2-BF2841D1F218</designId>
+</OSDM_Design>
